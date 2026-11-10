@@ -1,8 +1,8 @@
 # Process Writeup
 
-## Name: 
-## Course: 
-## Period: 
+## Amber Trejo 
+## Software engineering  
+## 2
 ## Concept: 
 
 ### Section
